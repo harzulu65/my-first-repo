@@ -1,14 +1,14 @@
 # my-first-repo
 
-1. [ Description. ](#desc)
-2. [ Usage tips. ](#usage)
+1. [ Title. ](#title)
+2. [ Description. ](#desc)
 
-<a name="desc"></a>
-## 1. Description
+<a name="title"></a>
+## 1. Title
 
 sometext
 
-<a name="usage"></a>
-## 2. Usage tips
+<a name="desc"></a>
+## 2. Description
 
 sometext
