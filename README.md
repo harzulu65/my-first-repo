@@ -14,48 +14,48 @@
  <a name=title></a>
 # 1. Project's Title
 
-Project Title Weather Application 2
+Project Title Application 
 
  <a name=desc></a>
 # 2. Description
 
-** please run `chsh -s /bin/zsh`.
+** The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
 
  <a name=install></a>
 # 3. Installation
 
 
-Harolds-Air:homework-week9-readme-generator haroldzuluaga$ 
+* The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
 
  <a name=usage></a>
 # 4. Usage
 
 
-* please run `chsh -s /bin/zsh`.
+* The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
 
  <a name=licenset></a>
 # 5. License
 
 
-Harolds-Air:homework-week9-readme-generator haroldzuluaga$ 
+* The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
 
  <a name=contrib></a>
 # 6. Contributing
 
 
-* please run `chsh -s /bin/zsh`.
+* The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
 
  <a name=tests></a>
 # 7. Tests
 
 
-Harolds-Air:homework-week9-readme-generator haroldzuluaga$ 
+* The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
 
  <a name=questions></a>
 # 8. Questions
 
 
-* please run `chsh -s /bin/zsh`.
+* The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
 
 
 
