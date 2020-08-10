@@ -13,48 +13,49 @@
 
  <a name=title></a>
 # 1. Project's Title
- 
-Weather Application Test 2
+
+Project Title Weather Application 2
 
  <a name=desc></a>
 # 2. Description
- 
-* It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.
+
+** please run `chsh -s /bin/zsh`.
 
  <a name=install></a>
 # 3. Installation
 
- 
-* It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.
+
+Harolds-Air:homework-week9-readme-generator haroldzuluaga$ 
 
  <a name=usage></a>
 # 4. Usage
 
- 
-* It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.
+
+* please run `chsh -s /bin/zsh`.
 
  <a name=licenset></a>
 # 5. License
 
- 
-* It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.
+
+Harolds-Air:homework-week9-readme-generator haroldzuluaga$ 
 
  <a name=contrib></a>
 # 6. Contributing
 
- 
-* It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.
+
+* please run `chsh -s /bin/zsh`.
 
  <a name=tests></a>
 # 7. Tests
 
- 
-* It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.
+
+Harolds-Air:homework-week9-readme-generator haroldzuluaga$ 
 
  <a name=questions></a>
 # 8. Questions
 
- 
-* It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.
+
+* please run `chsh -s /bin/zsh`.
+
 
 
