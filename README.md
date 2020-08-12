@@ -9,57 +9,58 @@
  5. [ License. ](#license)
  6. [ Contribution. ](#contrib)
  7. [ Tests. ](#tests)
- 8. [ Questions](#questions)
+ 8. [ Picture Link](#questionsPic)
+ 9. [ Email Link](#questionsEmail)
 
  <a name=title></a>
 # 1. Project's Title
 
-Weather Application  World Weather
+World Weather Application
 
  <a name=desc></a>
 # 2. Description
 
-Description of the project can be included here
+Description of the Project can be added here
 
  <a name=install></a>
 # 3. Installation
 
 
-Installation Notes
+Installation Notes should be located in this area
 
  <a name=usage></a>
 # 4. Usage
 
 
-Usage can be described here
+usage notes add here\
 
  <a name=licenset></a>
 # 5. License
 
 
-iSC - or text also can be noted
+ISC - or the text of the license can be included
 
  <a name=contrib></a>
 # 6. Contributing
 
 
-Contribution can be allowed and escribed in here
+Contribution Notes to Github users can be allowed and should be referenced here
 
  <a name=tests></a>
 # 7. Tests
 
 
-testing notes can de located in this sectioni
+testing notes for the cloners of forkers
 
- <a name=questions></a>
+ <a name=questionsPic></a>
 # 8. Picture Link
 
 
-https://github.com/Harzulu65undefined
+https://github.com/harzulu65undefined/
 
 
 
- <a name=questions></a>
+ <a name=questionsEmail></a>
 # 8. Github Email
 
 
